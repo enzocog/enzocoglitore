@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Enzo Coglitore,
+    title: 'Enzo Coglitore',
     author: 'Enzo Coglitore',
     description: 'Website by Enzo Coglitore',
   },
