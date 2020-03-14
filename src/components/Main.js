@@ -47,7 +47,7 @@ class Main extends React.Component {
          
           <p>Below you can find a couple of the things that I am a part of/worked on previously.</p>
           <li>
-          <a href="troylabs.vc">
+          <a href="https://troylabs.vc">
             TroyLabs
             </a>
           </li>
@@ -58,12 +58,12 @@ class Main extends React.Component {
           <li>
             Bright
           </li>
-          <li><a href="uscreach.com">
+          <li><a href="https://uscreach.com">
             Reach
             </a>
           </li>
           <li>
-            <a href="rstor.io">
+            <a href="https://rstor.io">
             RStor
             </a>
           </li>
