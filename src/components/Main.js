@@ -67,6 +67,7 @@ class Main extends React.Component {
             RStor
             </a>
           </li>
+          <li><a href="https://mindpumpmedia.com">Mind Pump Media</a></li>
           {close}
         </article>
 
