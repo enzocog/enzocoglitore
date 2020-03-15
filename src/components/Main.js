@@ -79,9 +79,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">About</h2>
-          <span className="image main">
+          {/*<span className="image main">
             <img src={pic03} alt="" />
-          </span>
+        </span> */}
           <p>
             Some of my interests besides work/entreprenuership are:
             <li>
