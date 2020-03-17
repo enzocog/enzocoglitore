@@ -31,7 +31,7 @@ class Main extends React.Component {
           <h2 className="major">Intro</h2>
       
           <p>
-            My name is Enzo Coglitore. I'm passionate about entreprenuership with an emphasis on building great, scalable companies. I'm a part of a couple organizations at USC such as TroyLabs, Reach, and ZBT. If you feel like you share the same passion for creating, feel free to reach out!
+            My name is Enzo Coglitore. I'm passionate about entrepreneurship with an emphasis on building great, scalable companies. I'm a part of a couple organizations at USC such as TroyLabs, Reach, and ZBT. If you feel like you share the same passion for creating, feel free to reach out!
           </p>
           {close}
         </article>
